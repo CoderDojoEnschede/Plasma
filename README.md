@@ -19,7 +19,7 @@ At first you have a design that changes between light and dark Grey, and your jo
 
 When you are completely finished, the end result will look like this:
 
-![end](gif/finished.gif)
+![end](gifs/finished.gif)
 
 ### Assignment 0: Open p5js editor
 
@@ -57,7 +57,7 @@ They define the colors used and the way they change over time.
 
 ▶▶▶ Click the run button to see the new changes!
 
-![1](gif/assignment1.gif)
+![1](gifs/assignment1.gif)
 
 ### Assignment 2: Functions f1->3
 
@@ -87,7 +87,7 @@ Found it? Perfect!
 
 ▶▶▶ Click the run button to see the new changes!
 
-![2](gif/assignment2.gif)
+![2](gifs/assignment2.gif)
 
 Nothing seems to have changed, right? Let's take a look at the next assignment...
 
@@ -113,7 +113,7 @@ We will modify the code for all 3 functions.
 
 ▶▶▶ Now click the run button to see the new changes!
 
-![3](gif/assignment3.gif)
+![3](gifs/assignment3.gif)
 
 ### Assignment 4: Text position
 
@@ -127,7 +127,7 @@ We have a text that is not visible yet. We have to change that.
 
 ▶▶▶ Now click the run button to see the new changes!
 
-![4](gif/assignment4.gif)
+![4](gifs/assignment4.gif)
 
 ### Assignment 5: CoderDojo icon
 
@@ -141,7 +141,7 @@ The only difference between them is the ☯️ icon.
 
 ▶▶▶ Now click the run button to see the new changes!
 
-![5](gif/assignment5.gif)
+![5](gifs/assignment5.gif)
 
 It is done! Good job!
 
@@ -161,7 +161,7 @@ Elke opdracht bevat uitleg, en dingen die jij zelf moet doen. De dingen die jij 
 
 ....
 
-![start](gif/start.gif)
+![start](gifs/start.gif)
 
 Als je helemaal klaar bent, zal het eindresultaat er ongeveer zo uit zien:
 
@@ -203,7 +203,7 @@ Dat was gemakkelijk! Nu komt het echte werk!
 
 ▶▶▶ .....
 
-![1](gif/assignment1.gif)
+![1](gifs/assignment1.gif)
 
 ### Opdracht 2: Functions f1->3
 
@@ -233,7 +233,7 @@ Heb je het gevonden? Perfect!
 
 ▶▶▶ .....
 
-![2](gif/assignment2.gif)
+![2](gifs/assignment2.gif)
 
 .....
 
@@ -259,7 +259,7 @@ Heb je het gevonden? Perfect!
 
 ▶▶▶ .....
 
-![3](gif/assignment3.gif)
+![3](gifs/assignment3.gif)
 
 ### Opdracht 4: Text position
 
@@ -273,7 +273,7 @@ Heb je het gevonden? Perfect!
 
 ▶▶▶ .....
 
-![4](gif/assignment4.gif)
+![4](gifs/assignment4.gif)
 
 ### Opdracht 5: CoderDojo icon
 
@@ -287,7 +287,7 @@ Heb je het gevonden? Perfect!
 
 ▶▶▶ .....
 
-![5](gif/assignment5.gif)
+![5](gifs/assignment5.gif)
 
 Het is gelukt! Goed gedaan!
 
