@@ -1,6 +1,8 @@
 # Plasma
 Plasma met behulp van p5.js
 
+-----
+
 *English*
 
 Hello! Today we are going to work on the project *Plasma* using p5.js.
@@ -13,11 +15,11 @@ Each assignment contains explanations, and things that you have to do yourself. 
 
 At first you have a design that changes between light and dark Grey, and your job is to make it multi-colored:
 
-![](gif/start.gif)
+![start](gif/start.gif)
 
 When you are completely finished, the end result will look like this:
 
-![](gif/finished.gif)
+![end](gif/finished.gif)
 
 ### Assignment 0: Open p5js editor
 
@@ -35,7 +37,7 @@ In the following assignments, we'll modify the code, run it, and view the result
 
 That was easy! Now comes the real work!
 
-![scratch](images/1.png)
+![application](images/1.png)
 
 ### Assignment 1: Colors
 
@@ -55,7 +57,7 @@ They define the colors used and the way they change over time.
 
 ▶▶▶ Click the run button to see the new changes!
 
-![](gif/assignment1.gif)
+![1](gif/assignment1.gif)
 
 ### Assignment 2: Functions f1->3
 
@@ -85,7 +87,7 @@ Found it? Perfect!
 
 ▶▶▶ Click the run button to see the new changes!
 
-![](gif/assignment2.gif)
+![2](gif/assignment2.gif)
 
 Nothing seems to have changed, right? Let's take a look at the next assignment...
 
@@ -111,7 +113,7 @@ We will modify the code for all 3 functions.
 
 ▶▶▶ Now click the run button to see the new changes!
 
-![](gif/assignment3.gif)
+![3](gif/assignment3.gif)
 
 ### Assignment 4: Text position
 
@@ -125,7 +127,7 @@ We have a text that is not visible yet. We have to change that.
 
 ▶▶▶ Now click the run button to see the new changes!
 
-![](gif/assignment4.gif)
+![4](gif/assignment4.gif)
 
 ### Assignment 5: CoderDojo icon
 
@@ -139,7 +141,7 @@ The only difference between them is the ☯️ icon.
 
 ▶▶▶ Now click the run button to see the new changes!
 
-![](gif/assignment5.gif)
+![5](gif/assignment5.gif)
 
 It is done! Good job!
 
@@ -159,11 +161,11 @@ Elke opdracht bevat uitleg, en dingen die jij zelf moet doen. De dingen die jij 
 
 ....
 
-![](gif/start.gif)
+![start](gif/start.gif)
 
 Als je helemaal klaar bent, zal het eindresultaat er ongeveer zo uit zien:
 
-![](gif/finished.gif)
+![end](gif/finished.gif)
 
 ### Opdracht 0: Open p5js editor
 
@@ -181,7 +183,7 @@ Er zijn meerdere dingen te zien:
 
 Dat was gemakkelijk! Nu komt het echte werk!
 
-![scratch](images/1.png)
+![application](images/1.png)
 
 ### Opdracht 1: Colors
 
@@ -201,7 +203,7 @@ Dat was gemakkelijk! Nu komt het echte werk!
 
 ▶▶▶ .....
 
-![](gif/assignment1.gif)
+![1](gif/assignment1.gif)
 
 ### Opdracht 2: Functions f1->3
 
@@ -231,7 +233,7 @@ Heb je het gevonden? Perfect!
 
 ▶▶▶ .....
 
-![](gif/assignment2.gif)
+![2](gif/assignment2.gif)
 
 .....
 
@@ -257,7 +259,7 @@ Heb je het gevonden? Perfect!
 
 ▶▶▶ .....
 
-![](gif/assignment3.gif)
+![3](gif/assignment3.gif)
 
 ### Opdracht 4: Text position
 
@@ -271,7 +273,7 @@ Heb je het gevonden? Perfect!
 
 ▶▶▶ .....
 
-![](gif/assignment4.gif)
+![4](gif/assignment4.gif)
 
 ### Opdracht 5: CoderDojo icon
 
@@ -285,7 +287,7 @@ Heb je het gevonden? Perfect!
 
 ▶▶▶ .....
 
-![](gif/assignment5.gif)
+![5](gif/assignment5.gif)
 
 Het is gelukt! Goed gedaan!
 
