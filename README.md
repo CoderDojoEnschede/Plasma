@@ -15,7 +15,7 @@ Each assignment contains explanations, and things that you have to do yourself. 
 
 At first you have a design that changes between light and dark Grey, and your job is to make it multi-colored:
 
-![start](gif/start.gif)
+![start](http://https://github.com/CoderDojoEnschede/Plasma/blob/main/gifs/start.gif)
 
 When you are completely finished, the end result will look like this:
 
